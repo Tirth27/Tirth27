@@ -40,5 +40,5 @@ Using artificial intelligence to conquer challenges faced by human kind. From da
 </details>
 
 [website]: https://tirthpatel.vercel.app/
-[twitter]: https://twitter.com/Teeths27
-[linkedin]: https://www.linkedin.com/in/tirth-patel-78405a17a/
+[twitter]: https://twitter.com/Tirth_P27
+[linkedin]: https://www.linkedin.com/in/tirth27/
