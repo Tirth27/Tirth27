@@ -39,6 +39,6 @@ Using artificial intelligence to conquer challenges faced by human kind. From da
   <img align="left" alt="Tirth's GitHub Stats" src="https://github-readme-stats.tirth27.vercel.app/api/top-langs/?username=Tirth27" />
 </details>
 
-[website]: https://tirth27.github.io./
+[website]: https://tirthpatel.vercel.app/
 [twitter]: https://twitter.com/Teeths27
 [linkedin]: https://www.linkedin.com/in/tirth-patel-78405a17a/
