@@ -25,7 +25,7 @@ Using artificial intelligence to conquer challenges faced by human kind. From da
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Text Analysis?](https://medium.com/@tirthpatel0927/what-is-text-analysis-46ff87f68d08?source=rss-c44bbf3d95df------2)
+- [What is Text Analysis?](https://tirthpatel0927.medium.com/what-is-text-analysis-46ff87f68d08?source=rss-c44bbf3d95df------2)
 - [Electic Power Distribution Industry Empowered by Data Science](https://medium.com/trends-in-data-science/electic-power-distribution-industry-empowered-by-data-science-f94926b870ea?source=rss-c44bbf3d95df------2)
 <!-- BLOG-POST-LIST:END -->
 
