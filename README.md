@@ -31,13 +31,14 @@ Using artificial intelligence to conquer challenges faced by human kind. From da
 
 ---
 
-<details>
+<!--<details>-->
   <summary>:zap: GitHub Stats</summary>
   
   
   <img align="left" alt="Tirth's GitHub Stats" src="https://github-readme-stats.tirth27.vercel.app/api?hide_border=true&username=Tirth27&show_icons=true&count_private=true&theme=buefy" />
+  
   <img align="left" alt="Tirth's GitHub Stats" src="https://github-readme-stats.tirth27.vercel.app/api/top-langs/?username=Tirth27" />
-</details>
+<!--</details>-->
 
 [website]: https://tirthpatel.vercel.app/
 [twitter]: https://twitter.com/Tirth_P27
