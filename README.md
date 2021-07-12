@@ -1,17 +1,17 @@
-### Hi there 👋, I'm Tirth! 
+### Hey, I'm Tirth! 
 
 <!--
 **Tirth27/Tirth27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## I'm a Master Student, Developer and an Emerging Data Scientist!!
+## Career Overview
 
-Using artificial intelligence to conquer challenges faced by human kind. From day-to-day life inconvenience to jeopardy that affects mankind, I'm looking forward to use machine learning for good.
+I am a Data Scientist with Strong academic background and extensive professional experience. I am extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability to come up with interesting ideas for solving complex business problems and driving business values. During my career, I successfully covered the end-end spectrum of data analytics from ML to Business Intelligence, helping stakeholders derive valuable insights and achieve outstanding results for the benefit of the business. I am also a strong communicator interacting with operational management across different departments, including IT, Marketing and Finance. 
+
 <!-- - 🔭 I’m currently working on -->
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning big data engineering
 - 👯 I’m looking to collaborate on Open Source projects
-<!-- - 📫 How to reach me: ... -->
+- 💬 Ask me about Machine Learning and Deep Learning
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
@@ -40,6 +40,6 @@ Using artificial intelligence to conquer challenges faced by human kind. From da
   <img align="left" alt="Tirth's GitHub Stats" src="https://github-readme-stats.tirth27.vercel.app/api/top-langs/?username=Tirth27" />
 <!--</details>-->
 
-[website]: https://tirthpatel.vercel.app/
+[website]: https://tirth27.github.io/
 [twitter]: https://twitter.com/Tirth_P27
 [linkedin]: https://www.linkedin.com/in/tirth27/
