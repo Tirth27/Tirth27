@@ -1,4 +1,6 @@
-### Hey, I'm Tirth! 
+### Hey, I'm Tirth! [<img align="right" width="110" height="110" src="https://user-images.githubusercontent.com/39476447/126852246-84d42153-0a45-41ca-99e8-58098f0f4450.png">](https://www.credly.com/badges/79233353-79c1-4607-ae54-a0a6568c9f36/public_url)
+
+
 
 <!--
 **Tirth27/Tirth27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
