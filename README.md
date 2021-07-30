@@ -1,6 +1,4 @@
-### Hey, I'm Tirth! [<img align="right" width="110" height="110" src="https://user-images.githubusercontent.com/39476447/126852246-84d42153-0a45-41ca-99e8-58098f0f4450.png">](https://www.credly.com/badges/79233353-79c1-4607-ae54-a0a6568c9f36/public_url)
-
-
+### Hey, I'm Tirth! 
 
 <!--
 **Tirth27/Tirth27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -19,11 +17,19 @@ I am a Data Scientist with Strong academic background and extensive professional
 
 ### Connect with me:
 
-[<img align="left" alt="Website" width="22px" src="https://img.icons8.com/fluent/48/000000/globe.png" />][website]
-[<img align="left" alt="Tirth | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="Tirth | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Website" width="30px" src="https://img.icons8.com/fluent/48/000000/globe.png" />][website]
+[<img align="left" alt="Tirth | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="Tirth | LinkedIn" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 
 <br />
+
+### Badges
+
+[<img align="left" alt="MS Data Analyst Associate" width="150px" src="https://user-images.githubusercontent.com/39476447/126852246-84d42153-0a45-41ca-99e8-58098f0f4450.png" />][MS Data Analyst]
+
+[<img align="left" alt="Tirth | Twitter" width="150px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/36051427" />][Fundamentals of the Databricks Lakehouse Platform] 
+
+<br /><br /><br /><br /><br /><br /><br />  
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -45,3 +51,5 @@ I am a Data Scientist with Strong academic background and extensive professional
 [website]: https://tirth27.github.io/
 [twitter]: https://twitter.com/Tirth_P27
 [linkedin]: https://www.linkedin.com/in/tirth27/
+[MS Data Analyst]: https://www.credly.com/badges/79233353-79c1-4607-ae54-a0a6568c9f36/public_url
+[Fundamentals of the Databricks Lakehouse Platform]: https://credentials.databricks.com/82416f39-90ad-4f1a-b397-2a8d54f86a34
