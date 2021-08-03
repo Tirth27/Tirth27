@@ -8,7 +8,7 @@
 I am a Data Scientist with Strong academic background and extensive professional experience. I am extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability to come up with interesting ideas for solving complex business problems and driving business values. During my career, I successfully covered the end-end spectrum of data analytics from ML to Business Intelligence, helping stakeholders derive valuable insights and achieve outstanding results for the benefit of the business. I am also a strong communicator interacting with operational management across different departments, including IT, Marketing and Finance. 
 
 <!-- - 🔭 I’m currently working on -->
-- 🌱 I’m currently learning big data engineering
+- 🌱 I’m currently working on predictive and bayesian analysis on GIS data.
 - 👯 I’m looking to collaborate on Open Source projects
 - 💬 Ask me about Machine Learning and Deep Learning
 <!-- - 🤔 I’m looking for help with ... -->
