@@ -27,7 +27,9 @@ I am a Data Scientist with Strong academic background and extensive professional
 
 [<img align="left" alt="MS Data Analyst Associate" width="150px" src="https://user-images.githubusercontent.com/39476447/126852246-84d42153-0a45-41ca-99e8-58098f0f4450.png" />][MS Data Analyst]
 
-[<img align="left" alt="Tirth | Twitter" width="150px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/36051427" />][Fundamentals of the Databricks Lakehouse Platform] 
+[<img align="left" alt="Fundamentals of the Databricks Lakehouse Platform" width="150px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/36051427" />][Fundamentals of the Databricks Lakehouse Platform] 
+
+[<img align="left" alt="Containers & Kubernetes Essentials" width="150px" src="https://user-images.githubusercontent.com/39476447/143567729-f9fd37ea-e7b0-4f42-9ed3-0d30f510b9c1.png" />][Containers & Kubernetes Essentials] 
 
 <br /><br /><br /><br /><br /><br /><br />  
 
@@ -53,3 +55,4 @@ I am a Data Scientist with Strong academic background and extensive professional
 [linkedin]: https://www.linkedin.com/in/tirth27/
 [MS Data Analyst]: https://www.credly.com/badges/79233353-79c1-4607-ae54-a0a6568c9f36/public_url
 [Fundamentals of the Databricks Lakehouse Platform]: https://credentials.databricks.com/82416f39-90ad-4f1a-b397-2a8d54f86a34
+[Containers & Kubernetes Essentials]: https://www.credly.com/badges/a1400562-648e-4fd1-9f6e-75e1caba3dcd/public_url
