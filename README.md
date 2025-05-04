@@ -41,14 +41,6 @@ I am a Data Scientist with Strong academic background and extensive professional
 
 ---
 
-<!--<details>-->
-  <summary>:zap: GitHub Stats</summary>
-  
-  
-  <img align="left" alt="Tirth's GitHub Stats" src="https://github-readme-stats.tirth27.vercel.app/api?hide_border=true&username=Tirth27&show_icons=true&count_private=true&theme=buefy" />
-  
-  <img align="left" alt="Tirth's GitHub Stats" src="https://github-readme-stats.tirth27.vercel.app/api/top-langs/?username=Tirth27" />
-<!--</details>-->
 
 [website]: https://tirth27.github.io/
 [twitter]: https://twitter.com/Tirth_P27
